@@ -14,4 +14,4 @@ A tool to translate Non-deterministic Finite Automtons into Deterministic (DFA).
   * `clean` is to clean previous builds and avoid conflicts
   * `run` to run the built file
 
-* More as it develops *
+*More as it develops*
